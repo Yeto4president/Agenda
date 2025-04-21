@@ -1,4 +1,4 @@
-## Diary management project
+## Agenda project
 
 
 Command-line diary management project with optimised search and organisation. 
